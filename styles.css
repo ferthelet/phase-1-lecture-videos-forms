@@ -1,0 +1,19 @@
+element-style {
+
+}
+
+html * {
+    font-family: sans-serif !important;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+}
+
+input[type="text"] {
+    padding: 10px 20px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid rgb(220,225,230);
+    font-size: 16px;
+}
